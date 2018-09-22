@@ -1,0 +1,24 @@
+_repo: Sound_54969
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tyndall, John
+    alias: Tyndal, John
+    birthdate: 1820
+    deathdate: 1893
+    gutenberg_agent_id: '561'
+    url: http://www.gutenberg.org/2009/agents/561
+    wikipedia: http://en.wikipedia.org/wiki/John_Tyndall
+description: ''
+gutenberg_issued: '2017-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sound
+url: http://www.gutenberg.org/ebooks/54969
